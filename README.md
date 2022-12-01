@@ -7,3 +7,4 @@
 # 💻 Technology Enthusiast.
 # ☘️ I am currently learning JavaScript.
 
+# 📗 To define is to limit.
